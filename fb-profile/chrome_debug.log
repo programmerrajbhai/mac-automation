@@ -1,34 +1,40 @@
-[14353:260909:0306/004934.327703:INFO:components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc:225] No machine level policy manager exists.
-[14353:261019:0306/004937.884226:ERROR:base/process/process_mac.cc:98] task_policy_set TASK_SUPPRESSION_POLICY: (os/kern) invalid argument (4)
-[14353:260909:0306/004937.916563:INFO:CONSOLE:333] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v4/yw/r/VyfhKvW5vO6.js (333)
-[14353:260909:0306/004938.927527:INFO:CONSOLE:253] "
+[17591:351591:0306/082044.128605:INFO:components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc:225] No machine level policy manager exists.
+[17591:351591:0306/082047.772862:INFO:CONSOLE:333] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v4/ye/r/uqSL8mZoRJp.js (333)
+[17591:351591:0306/082048.877719:INFO:CONSOLE:253] "
 %cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v4/ya/r/7Qm11ZykarS.js (253)
-[14353:260909:0306/004938.927587:INFO:CONSOLE:253] "
+[17591:351591:0306/082048.877779:INFO:CONSOLE:253] "
 %cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it's a scam and will give them access to your Facebook account. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v4/ya/r/7Qm11ZykarS.js (253)
-[14353:260909:0306/004938.927648:INFO:CONSOLE:253] "
+[17591:351591:0306/082048.877800:INFO:CONSOLE:253] "
 %cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v4/ya/r/7Qm11ZykarS.js (253)
-[14353:260909:0306/004938.927716:INFO:CONSOLE:253] "
+[17591:351591:0306/082048.877811:INFO:CONSOLE:253] "
 %c ", source: https://static.xx.fbcdn.net/rsrc.php/v4/ya/r/7Qm11ZykarS.js (253)
-[14362:261053:0306/004942.076452:WARNING:net/spdy/spdy_session.cc:3071] Received HEADERS for invalid stream 5
-[14353:260994:0306/004942.192608:ERROR:google_apis/gcm/engine/registration_request.cc:290] Registration response error message: DEPRECATED_ENDPOINT
-[14353:260909:0306/004947.799622:INFO:CONSOLE:253] "
+[17604:351763:0306/082054.274334:WARNING:net/spdy/spdy_session.cc:3071] Received HEADERS for invalid stream 3
+[17591:351591:0306/082057.303178:INFO:CONSOLE:333] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v4/ye/r/uqSL8mZoRJp.js (333)
+[17591:351591:0306/082057.528246:INFO:CONSOLE:253] "
 %cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v4/ya/r/7Qm11ZykarS.js (253)
-[14353:260909:0306/004947.799849:INFO:CONSOLE:253] "
+[17591:351591:0306/082057.528367:INFO:CONSOLE:253] "
 %cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it's a scam and will give them access to your Facebook account. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v4/ya/r/7Qm11ZykarS.js (253)
-[14353:260909:0306/004947.799868:INFO:CONSOLE:253] "
+[17591:351591:0306/082057.528433:INFO:CONSOLE:253] "
 %cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v4/ya/r/7Qm11ZykarS.js (253)
-[14353:260909:0306/004947.799880:INFO:CONSOLE:253] "
+[17591:351591:0306/082057.528463:INFO:CONSOLE:253] "
 %c ", source: https://static.xx.fbcdn.net/rsrc.php/v4/ya/r/7Qm11ZykarS.js (253)
-[14353:260909:0306/004947.810747:INFO:CONSOLE:333] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v4/yw/r/VyfhKvW5vO6.js (333)
-[14353:260909:0306/005006.784082:INFO:CONSOLE:19] "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently", source: https://static.xx.fbcdn.net/rsrc.php/v4iRMN4/yc/l/en_US-j/gOOTYsj8hEb.js (19)
-[14353:260909:0306/005007.671797:INFO:CONSOLE:19] "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently", source: https://static.xx.fbcdn.net/rsrc.php/v4iRMN4/yc/l/en_US-j/gOOTYsj8hEb.js (19)
-[14353:260909:0306/005010.809230:INFO:CONSOLE:333] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v4/yw/r/VyfhKvW5vO6.js (333)
-[14353:260994:0306/005010.823364:ERROR:google_apis/gcm/engine/registration_request.cc:290] Registration response error message: DEPRECATED_ENDPOINT
-[14353:260909:0306/005011.694430:INFO:CONSOLE:253] "
+[17591:351687:0306/082058.976633:ERROR:google_apis/gcm/engine/registration_request.cc:290] Registration response error message: DEPRECATED_ENDPOINT
+[17591:351591:0306/082111.124215:INFO:CONSOLE:0] "ResizeObserver loop completed with undelivered notifications.", source: https://www.facebook.com/groups/1527683041350092 (0)
+[17591:351687:0306/082123.363393:ERROR:google_apis/gcm/engine/registration_request.cc:290] Registration response error message: DEPRECATED_ENDPOINT
+[17591:351591:0306/082133.314223:INFO:CONSOLE:19] "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently", source: https://static.xx.fbcdn.net/rsrc.php/v4iRMN4/yc/l/en_US-j/gOOTYsj8hEb.js (19)
+[17591:351591:0306/082134.105451:INFO:CONSOLE:19] "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently", source: https://static.xx.fbcdn.net/rsrc.php/v4iRMN4/yc/l/en_US-j/gOOTYsj8hEb.js (19)
+[17591:351591:0306/082140.721552:INFO:CONSOLE:333] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v4/ye/r/uqSL8mZoRJp.js (333)
+[17591:351591:0306/082141.258251:INFO:CONSOLE:253] "
 %cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v4/ya/r/7Qm11ZykarS.js (253)
-[14353:260909:0306/005011.694507:INFO:CONSOLE:253] "
+[17591:351591:0306/082141.258315:INFO:CONSOLE:253] "
 %cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it's a scam and will give them access to your Facebook account. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v4/ya/r/7Qm11ZykarS.js (253)
-[14353:260909:0306/005011.694520:INFO:CONSOLE:253] "
+[17591:351591:0306/082141.258329:INFO:CONSOLE:253] "
 %cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v4/ya/r/7Qm11ZykarS.js (253)
-[14353:260909:0306/005011.694530:INFO:CONSOLE:253] "
+[17591:351591:0306/082141.258339:INFO:CONSOLE:253] "
 %c ", source: https://static.xx.fbcdn.net/rsrc.php/v4/ya/r/7Qm11ZykarS.js (253)
+[17591:351591:0306/082154.783194:INFO:CONSOLE:0] "ResizeObserver loop completed with undelivered notifications.", source: https://www.facebook.com/groups/660606137970793 (0)
+[17591:351685:0306/082214.244075:INFO:rlz/lib/rlz_lib.cc:442] Attempting to send RLZ ping brand=CHFA
+[17591:351687:0306/082214.663170:ERROR:google_apis/gcm/engine/registration_request.cc:290] Registration response error message: DEPRECATED_ENDPOINT
+[17591:351685:0306/082215.626946:INFO:rlz/lib/rlz_lib.cc:451] Succeeded in sending RLZ ping
+[17604:351760:0306/082237.975506:WARNING:net/extras/sqlite/sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
+[17604:351760:0306/082237.975560:WARNING:net/extras/sqlite/sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
