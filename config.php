@@ -15,7 +15,7 @@ $mediaType = 'image';
 $mediaFileName = 'test.jpg'; 
 $mediaPath = __DIR__ . '/uploads/' . $mediaFileName;
 
-
+Bangladesh admin
 
 $doReply = false; // অটো-রিপ্লাই চালু রাখতে true দিন
 $maxReplies = 10; // একটি পোস্টে সর্বোচ্চ কয়টি রিপ্লাই করবে?
