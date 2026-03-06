@@ -1,3 +1,5 @@
-2026/03/06-08:17:54.347 54f43 Reusing MANIFEST /Users/rajahmad/Desktop/mac-automation/fb-profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/03/06-08:17:54.349 54f43 Recovering log #9
-2026/03/06-08:17:54.350 54f43 Reusing old log /Users/rajahmad/Desktop/mac-automation/fb-profile/Default/Local Storage/leveldb/000009.log 
+2026/03/06-08:58:35.089 5f29f Reusing MANIFEST /Users/rajahmad/Desktop/mac-automation/fb-profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/03/06-08:58:35.092 5f29f Recovering log #17
+2026/03/06-08:58:35.092 5f29f Level-0 table #19: started
+2026/03/06-08:58:35.103 5f29f Level-0 table #19: 24279 bytes OK
+2026/03/06-08:58:35.109 5f29f Delete type=0 #17
