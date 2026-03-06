@@ -4,13 +4,20 @@ try {
     require_once 'setup_browser.php';
     require_once 'handle_login.php';
     
-    // যদি config-এ $doPost = true থাকে, তবেই পোস্ট করবে
+    // ১. গ্রুপে পোস্ট করা (যদি $doPost = true থাকে)
     if (isset($doPost) && $doPost) {
         require_once 'post_groups.php';
     }
     
-    // কমেন্ট করার ফাইলটি যুক্ত করা হলো
-    require_once 'comment_groups.php';
+    // ২. গ্রুপে অটো-কমেন্ট করা (যদি $doComment = true থাকে)
+    if (isset($doComment) && $doComment) {
+        require_once 'comment_groups.php';
+    }
+
+    // ৩. নির্দিষ্ট পোস্টে অটো-রিপ্লাই করা (যদি $doReply = true থাকে)
+    if (isset($doReply) && $doReply) {
+        require_once 'reply_comments.php';
+    }
     
     echo "\n======================================================\n";
     echo "🎉 আপনার সব কাজ শেষ!\n";
@@ -22,3 +29,4 @@ try {
     readline("👉 টার্মিনাল থেকে বের হতে ENTER চাপুন: ");
     if(isset($driver)) { $driver->quit(); }
 }
+?>
