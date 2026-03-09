@@ -56,7 +56,6 @@ $maxComments = 10;
 // ======================================================
 $groupUrls = [
     'https://web.facebook.com/share/g/1H9K3fLUqg',
-
     'https://www.facebook.com/groups/1527683041350092', 
     'https://www.facebook.com/groups/660606137970793', 
 ];

@@ -1,3 +1,6 @@
-2026/03/06-09:34:23.672 694d8 Reusing MANIFEST /Users/rajahmad/Desktop/mac-automation/fb-profile/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/03/06-09:34:23.672 694d8 Recovering log #3
-2026/03/06-09:34:23.682 694d8 Reusing old log /Users/rajahmad/Desktop/mac-automation/fb-profile/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000003.log 
+2026/03/09-13:02:53.490 1b6da9 Reusing MANIFEST /Users/rajahmad/Desktop/mac-automation/fb-profile/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/09-13:02:53.491 1b6da9 Recovering log #3
+2026/03/09-13:02:53.510 1b6da9 Reusing old log /Users/rajahmad/Desktop/mac-automation/fb-profile/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000003.log 
+2026/03/09-13:06:36.700 1b6dab Level-0 table #5: started
+2026/03/09-13:06:36.724 1b6dab Level-0 table #5: 1598354 bytes OK
+2026/03/09-13:06:36.736 1b6dab Delete type=0 #3

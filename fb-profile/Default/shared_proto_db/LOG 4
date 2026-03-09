@@ -1,0 +1,6 @@
+2026/03/07-17:21:36.131 fc524 Reusing MANIFEST /Users/rajahmad/Desktop/mac-automation/fb-profile/Default/shared_proto_db/MANIFEST-000001
+2026/03/07-17:21:36.131 fc524 Recovering log #3
+2026/03/07-17:21:36.133 fc524 Reusing old log /Users/rajahmad/Desktop/mac-automation/fb-profile/Default/shared_proto_db/000003.log 
+2026/03/07-17:21:43.622 fc524 Level-0 table #5: started
+2026/03/07-17:21:43.629 fc524 Level-0 table #5: 115563 bytes OK
+2026/03/07-17:21:43.633 fc524 Delete type=0 #3

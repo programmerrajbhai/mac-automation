@@ -1,45 +1,17 @@
-[34765:612711:0306/202726.492965:INFO:components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc:225] No machine level policy manager exists.
-[34765:612807:0306/202730.441463:ERROR:google_apis/gcm/engine/registration_request.cc:290] Registration response error message: DEPRECATED_ENDPOINT
-[34765:612711:0306/202732.056193:INFO:CONSOLE:253] "
-%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://z-p3-static.xx.fbcdn.net/rsrc.php/v4/yq/r/qqV_KPvyw-P.js?_nc_eui2=AeFRtJXB_AtfuMMkoD62-s-elRmLX69TaDeVGYtfr1NoN0mTXG2Lyb_u8n7p9Wq6Pbp9ngUG_FW5XBPrSw2zfG8t (253)
-[34765:612711:0306/202732.056356:INFO:CONSOLE:253] "
-%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it's a scam and will give them access to your Facebook account. font-family:helvetica; font-size:20px; ", source: https://z-p3-static.xx.fbcdn.net/rsrc.php/v4/yq/r/qqV_KPvyw-P.js?_nc_eui2=AeFRtJXB_AtfuMMkoD62-s-elRmLX69TaDeVGYtfr1NoN0mTXG2Lyb_u8n7p9Wq6Pbp9ngUG_FW5XBPrSw2zfG8t (253)
-[34765:612711:0306/202732.056388:INFO:CONSOLE:253] "
-%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://z-p3-static.xx.fbcdn.net/rsrc.php/v4/yq/r/qqV_KPvyw-P.js?_nc_eui2=AeFRtJXB_AtfuMMkoD62-s-elRmLX69TaDeVGYtfr1NoN0mTXG2Lyb_u8n7p9Wq6Pbp9ngUG_FW5XBPrSw2zfG8t (253)
-[34765:612711:0306/202732.056408:INFO:CONSOLE:253] "
-%c ", source: https://z-p3-static.xx.fbcdn.net/rsrc.php/v4/yq/r/qqV_KPvyw-P.js?_nc_eui2=AeFRtJXB_AtfuMMkoD62-s-elRmLX69TaDeVGYtfr1NoN0mTXG2Lyb_u8n7p9Wq6Pbp9ngUG_FW5XBPrSw2zfG8t (253)
-[34779:612865:0306/202736.992585:WARNING:net/spdy/spdy_session.cc:3071] Received HEADERS for invalid stream 3
-[34765:612711:0306/202742.393116:INFO:CONSOLE:253] "
-%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://z-p3-static.xx.fbcdn.net/rsrc.php/v4/yq/r/qqV_KPvyw-P.js?_nc_eui2=AeFRtJXB_AtfuMMkoD62-s-elRmLX69TaDeVGYtfr1NoN0mTXG2Lyb_u8n7p9Wq6Pbp9ngUG_FW5XBPrSw2zfG8t (253)
-[34765:612711:0306/202742.393323:INFO:CONSOLE:253] "
-%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it's a scam and will give them access to your Facebook account. font-family:helvetica; font-size:20px; ", source: https://z-p3-static.xx.fbcdn.net/rsrc.php/v4/yq/r/qqV_KPvyw-P.js?_nc_eui2=AeFRtJXB_AtfuMMkoD62-s-elRmLX69TaDeVGYtfr1NoN0mTXG2Lyb_u8n7p9Wq6Pbp9ngUG_FW5XBPrSw2zfG8t (253)
-[34765:612711:0306/202742.393379:INFO:CONSOLE:253] "
-%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://z-p3-static.xx.fbcdn.net/rsrc.php/v4/yq/r/qqV_KPvyw-P.js?_nc_eui2=AeFRtJXB_AtfuMMkoD62-s-elRmLX69TaDeVGYtfr1NoN0mTXG2Lyb_u8n7p9Wq6Pbp9ngUG_FW5XBPrSw2zfG8t (253)
-[34765:612711:0306/202742.393400:INFO:CONSOLE:253] "
-%c ", source: https://z-p3-static.xx.fbcdn.net/rsrc.php/v4/yq/r/qqV_KPvyw-P.js?_nc_eui2=AeFRtJXB_AtfuMMkoD62-s-elRmLX69TaDeVGYtfr1NoN0mTXG2Lyb_u8n7p9Wq6Pbp9ngUG_FW5XBPrSw2zfG8t (253)
-[34765:612807:0306/202753.187446:ERROR:google_apis/gcm/engine/registration_request.cc:290] Registration response error message: DEPRECATED_ENDPOINT
-[34765:612711:0306/202757.078237:INFO:CONSOLE:0] "ResizeObserver loop completed with undelivered notifications.", source: https://web.facebook.com/groups/roseblackpink/?rdid=uHW7dUHkLXnmRgOu&share_url=https%3A%2F%2Fweb.facebook.com%2Fshare%2Fg%2F1H9K3fLUqg# (0)
-[34765:612711:0306/202828.288916:INFO:CONSOLE:253] "
-%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://z-p3-static.xx.fbcdn.net/rsrc.php/v4/yq/r/qqV_KPvyw-P.js?_nc_eui2=AeFRtJXB_AtfuMMkoD62-s-elRmLX69TaDeVGYtfr1NoN0mTXG2Lyb_u8n7p9Wq6Pbp9ngUG_FW5XBPrSw2zfG8t (253)
-[34765:612711:0306/202828.289185:INFO:CONSOLE:253] "
-%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it's a scam and will give them access to your Facebook account. font-family:helvetica; font-size:20px; ", source: https://z-p3-static.xx.fbcdn.net/rsrc.php/v4/yq/r/qqV_KPvyw-P.js?_nc_eui2=AeFRtJXB_AtfuMMkoD62-s-elRmLX69TaDeVGYtfr1NoN0mTXG2Lyb_u8n7p9Wq6Pbp9ngUG_FW5XBPrSw2zfG8t (253)
-[34765:612711:0306/202828.289326:INFO:CONSOLE:253] "
-%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://z-p3-static.xx.fbcdn.net/rsrc.php/v4/yq/r/qqV_KPvyw-P.js?_nc_eui2=AeFRtJXB_AtfuMMkoD62-s-elRmLX69TaDeVGYtfr1NoN0mTXG2Lyb_u8n7p9Wq6Pbp9ngUG_FW5XBPrSw2zfG8t (253)
-[34765:612711:0306/202828.289340:INFO:CONSOLE:253] "
-%c ", source: https://z-p3-static.xx.fbcdn.net/rsrc.php/v4/yq/r/qqV_KPvyw-P.js?_nc_eui2=AeFRtJXB_AtfuMMkoD62-s-elRmLX69TaDeVGYtfr1NoN0mTXG2Lyb_u8n7p9Wq6Pbp9ngUG_FW5XBPrSw2zfG8t (253)
-[34765:612711:0306/202831.806727:INFO:CONSOLE:19] "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently", source: https://z-p3-static.xx.fbcdn.net/rsrc.php/v4iRMN4/yc/l/en_US-j/gOOTYsj8hEb.js?_nc_eui2=AeG5Wt5OLiN_H8ksHUlYjGcTyHmbJzsar8TIeZsnOxqvxLX9aaWfCh2zirekdDeULYnlaTKx9b-Vcj_bOgARTE8W (19)
-[34765:612711:0306/202833.500882:INFO:CONSOLE:19] "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently", source: https://z-p3-static.xx.fbcdn.net/rsrc.php/v4iRMN4/yc/l/en_US-j/gOOTYsj8hEb.js?_nc_eui2=AeG5Wt5OLiN_H8ksHUlYjGcTyHmbJzsar8TIeZsnOxqvxLX9aaWfCh2zirekdDeULYnlaTKx9b-Vcj_bOgARTE8W (19)
-[34765:612807:0306/202848.979123:ERROR:google_apis/gcm/engine/registration_request.cc:290] Registration response error message: DEPRECATED_ENDPOINT
-[34765:612711:0306/202909.615198:INFO:CONSOLE:0] "ResizeObserver loop completed with undelivered notifications.", source: https://web.facebook.com/groups/1527683041350092?_rdc=1&_rdr# (0)
-[34765:612711:0306/202942.042613:INFO:CONSOLE:253] "
-%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://z-p3-static.xx.fbcdn.net/rsrc.php/v4/yq/r/qqV_KPvyw-P.js?_nc_eui2=AeFRtJXB_AtfuMMkoD62-s-elRmLX69TaDeVGYtfr1NoN0mTXG2Lyb_u8n7p9Wq6Pbp9ngUG_FW5XBPrSw2zfG8t (253)
-[34765:612711:0306/202942.043158:INFO:CONSOLE:253] "
-%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it's a scam and will give them access to your Facebook account. font-family:helvetica; font-size:20px; ", source: https://z-p3-static.xx.fbcdn.net/rsrc.php/v4/yq/r/qqV_KPvyw-P.js?_nc_eui2=AeFRtJXB_AtfuMMkoD62-s-elRmLX69TaDeVGYtfr1NoN0mTXG2Lyb_u8n7p9Wq6Pbp9ngUG_FW5XBPrSw2zfG8t (253)
-[34765:612711:0306/202942.043179:INFO:CONSOLE:253] "
-%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://z-p3-static.xx.fbcdn.net/rsrc.php/v4/yq/r/qqV_KPvyw-P.js?_nc_eui2=AeFRtJXB_AtfuMMkoD62-s-elRmLX69TaDeVGYtfr1NoN0mTXG2Lyb_u8n7p9Wq6Pbp9ngUG_FW5XBPrSw2zfG8t (253)
-[34765:612711:0306/202942.043192:INFO:CONSOLE:253] "
-%c ", source: https://z-p3-static.xx.fbcdn.net/rsrc.php/v4/yq/r/qqV_KPvyw-P.js?_nc_eui2=AeFRtJXB_AtfuMMkoD62-s-elRmLX69TaDeVGYtfr1NoN0mTXG2Lyb_u8n7p9Wq6Pbp9ngUG_FW5XBPrSw2zfG8t (253)
-[34765:612711:0306/202955.612259:INFO:CONSOLE:0] "ResizeObserver loop completed with undelivered notifications.", source: https://web.facebook.com/groups/660606137970793?_rdc=1&_rdr# (0)
-[34765:612807:0306/203012.926404:ERROR:google_apis/gcm/engine/registration_request.cc:290] Registration response error message: DEPRECATED_ENDPOINT
-[34779:612867:0306/203039.578861:WARNING:net/extras/sqlite/sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
-[34779:612867:0306/203039.582553:WARNING:net/extras/sqlite/sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
+[95419:1797489:0309/130251.729649:INFO:components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc:225] No machine level policy manager exists.
+[95419:1797489:0309/130254.065472:INFO:CONSOLE:334] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v4/yO/r/YdJqtQ7glMZ.js (334)
+[95419:1797489:0309/130256.223812:INFO:CONSOLE:254] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v4/ya/r/Hf54VCqkkAe.js?_nc_eui2=AeGLKWgsQndkVh1rGo9waxZZFXA06A--c8YVcDToD75zxgoCZL585MA9meL7hTmIvuXBVlwkcX71iX4lmwKyWwDS (254)
+[95419:1797489:0309/130256.223917:INFO:CONSOLE:254] "
+%cThis is a browser feature intended for developers. If someone told you to copy and paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v4/ya/r/Hf54VCqkkAe.js?_nc_eui2=AeGLKWgsQndkVh1rGo9waxZZFXA06A--c8YVcDToD75zxgoCZL585MA9meL7hTmIvuXBVlwkcX71iX4lmwKyWwDS (254)
+[95419:1797489:0309/130256.223932:INFO:CONSOLE:254] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v4/ya/r/Hf54VCqkkAe.js?_nc_eui2=AeGLKWgsQndkVh1rGo9waxZZFXA06A--c8YVcDToD75zxgoCZL585MA9meL7hTmIvuXBVlwkcX71iX4lmwKyWwDS (254)
+[95419:1797489:0309/130256.223943:INFO:CONSOLE:254] "
+%c ", source: https://static.xx.fbcdn.net/rsrc.php/v4/ya/r/Hf54VCqkkAe.js?_nc_eui2=AeGLKWgsQndkVh1rGo9waxZZFXA06A--c8YVcDToD75zxgoCZL585MA9meL7hTmIvuXBVlwkcX71iX4lmwKyWwDS (254)
+[95430:1797620:0309/130257.415082:WARNING:net/spdy/spdy_session.cc:3071] Received HEADERS for invalid stream 11
+[95419:1797548:0309/130302.096531:ERROR:google_apis/gcm/engine/registration_request.cc:290] Registration response error message: DEPRECATED_ENDPOINT
+[95419:1797548:0309/130330.366832:ERROR:google_apis/gcm/engine/registration_request.cc:290] Registration response error message: DEPRECATED_ENDPOINT
+[95419:1797548:0309/130419.927435:ERROR:google_apis/gcm/engine/registration_request.cc:290] Registration response error message: DEPRECATED_ENDPOINT
+[95419:1797546:0309/130421.835335:INFO:rlz/lib/rlz_lib.cc:442] Attempting to send RLZ ping brand=CHFA
+[95419:1797546:0309/130422.311180:INFO:rlz/lib/rlz_lib.cc:451] Succeeded in sending RLZ ping
+[95419:1797548:0309/130620.100088:ERROR:google_apis/gcm/engine/registration_request.cc:290] Registration response error message: DEPRECATED_ENDPOINT
